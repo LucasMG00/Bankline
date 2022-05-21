@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bankline</string>
+    <string name="bem_vindo_a_ao_bankline">Bem-vindo(a) ao Bankline</string>
+    <string name="digite_o_id_da_conta_para_acessar">Digite o ID da conta para acessar</string>
+    <string name="acessar">Acessar</string>
+</resources>

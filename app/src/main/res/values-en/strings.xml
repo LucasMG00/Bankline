@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bankline</string>
+    <string name="bem_vindo_a_ao_bankline">Welcome to Bankline</string>
+    <string name="digite_o_id_da_conta_para_acessar">Type the account ID to access</string>
+    <string name="acessar">Access</string>
+</resources>

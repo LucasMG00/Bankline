@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Bankline" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1B96FA</item>
+        <item name="colorPrimaryVariant">#8D8F97</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#2D313D</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">#1B96FA</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/ic_launcher_background</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <color name="primary">@color/white</color>
+    <color name="secondary">#2D313D</color>
+    <color name="variant">#8D8F97</color>
+    <color name="main">#1B96FA</color>
+
+</resources>
